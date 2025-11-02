@@ -1,0 +1,89 @@
+Gladiator process started. PID: 2936
+Facing opponent 2... Taking 5 damage
+Are you not entertained? Remaining health: 495
+Facing opponent 3... Taking 10 damage
+Are you not entertained? Remaining health: 485
+Facing opponent 1... Taking 20 damage
+Are you not entertained? Remaining health: 465
+Facing opponent 2... Taking 5 damage
+Are you not entertained? Remaining health: 460
+Facing opponent 3... Taking 10 damage
+Are you not entertained? Remaining health: 450
+Facing opponent 1... Taking 20 damage
+Are you not entertained? Remaining health: 430
+Facing opponent 2... Taking 5 damage
+Are you not entertained? Remaining health: 425
+Facing opponent 3... Taking 10 damage
+Are you not entertained? Remaining health: 415
+Facing opponent 1... Taking 20 damage
+Are you not entertained? Remaining health: 395
+Facing opponent 2... Taking 5 damage
+Are you not entertained? Remaining health: 390
+Facing opponent 3... Taking 10 damage
+Are you not entertained? Remaining health: 380
+Facing opponent 1... Taking 20 damage
+Are you not entertained? Remaining health: 360
+Facing opponent 2... Taking 5 damage
+Are you not entertained? Remaining health: 355
+Facing opponent 3... Taking 10 damage
+Are you not entertained? Remaining health: 345
+Facing opponent 1... Taking 20 damage
+Are you not entertained? Remaining health: 325
+Facing opponent 2... Taking 5 damage
+Are you not entertained? Remaining health: 320
+Facing opponent 3... Taking 10 damage
+Are you not entertained? Remaining health: 310
+Facing opponent 1... Taking 20 damage
+Are you not entertained? Remaining health: 290
+Facing opponent 2... Taking 5 damage
+Are you not entertained? Remaining health: 285
+Facing opponent 3... Taking 10 damage
+Are you not entertained? Remaining health: 275
+Facing opponent 1... Taking 20 damage
+Are you not entertained? Remaining health: 255
+Facing opponent 2... Taking 5 damage
+Are you not entertained? Remaining health: 250
+Facing opponent 3... Taking 10 damage
+Are you not entertained? Remaining health: 240
+Facing opponent 1... Taking 20 damage
+Are you not entertained? Remaining health: 220
+Facing opponent 2... Taking 5 damage
+Are you not entertained? Remaining health: 215
+Facing opponent 3... Taking 10 damage
+Are you not entertained? Remaining health: 205
+Facing opponent 1... Taking 20 damage
+Are you not entertained? Remaining health: 185
+Facing opponent 2... Taking 5 damage
+Are you not entertained? Remaining health: 180
+Facing opponent 3... Taking 10 damage
+Are you not entertained? Remaining health: 170
+Facing opponent 1... Taking 20 damage
+Are you not entertained? Remaining health: 150
+Facing opponent 2... Taking 5 damage
+Are you not entertained? Remaining health: 145
+Facing opponent 3... Taking 10 damage
+Are you not entertained? Remaining health: 135
+Facing opponent 1... Taking 20 damage
+Are you not entertained? Remaining health: 115
+Facing opponent 2... Taking 5 damage
+Are you not entertained? Remaining health: 110
+Facing opponent 3... Taking 10 damage
+Are you not entertained? Remaining health: 100
+Facing opponent 1... Taking 20 damage
+Are you not entertained? Remaining health: 80
+Facing opponent 2... Taking 5 damage
+Are you not entertained? Remaining health: 75
+Facing opponent 3... Taking 10 damage
+Are you not entertained? Remaining health: 65
+Facing opponent 1... Taking 20 damage
+Are you not entertained? Remaining health: 45
+Facing opponent 2... Taking 5 damage
+Are you not entertained? Remaining health: 40
+Facing opponent 3... Taking 10 damage
+Are you not entertained? Remaining health: 30
+Facing opponent 1... Taking 20 damage
+Are you not entertained? Remaining health: 10
+Facing opponent 2... Taking 5 damage
+Are you not entertained? Remaining health: 5
+Facing opponent 3... Taking 10 damage
+The gladiator has fallen... Final health: -5
